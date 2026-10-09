@@ -1,0 +1,238 @@
+{
+  "search_id": "sr_helmet_twist_lock_20261008",
+  "status": "completed",
+  "invention_title": "Collapsible Bicycle Helmet with Twist-Lock Honeycomb Liner",
+  "risk": "high",
+  "risk_note": "Core concept heavily anticipated by WO2023233224A1 and US12268268B2 family. Only quarter-turn twist actuation is potentially novel, but likely obvious under § 103.",
+  "elements": [
+    { "id": "e1", "label": "honeycomb protective liner" },
+    { "id": "e2", "label": "overlapping thermoplastic cells" },
+    { "id": "e3", "label": "locks rigid when actuated" },
+    { "id": "e4", "label": "collapses flat for storage" },
+    { "id": "e5", "label": "impact absorption by cell crush" },
+    { "id": "e6", "label": "quarter-turn twist actuation" },
+    { "id": "e7", "label": "radial cell arrangement" }
+  ],
+  "queries": [
+    "\"collapsible helmet\" liner",
+    "(\"foldable\" OR \"collapsible\") helmet honeycomb liner",
+    "helmet liner expand collapse rigid lock",
+    "collapsible helmet liner impact energy absorption",
+    "quarter turn twist lock bayonet fastener mechanical patent rotate 90 degrees",
+    "helmet shell rotate relative liner twist lock mechanism patent A42B",
+    "CPC A42B 3/32 collapsible helmet twist rotate lock patent",
+    "design patent folding helmet collapsible bicycle ornamental appearance"
+  ],
+  "refs": [
+    {
+      "pub_number": "WO2023233224A1",
+      "title": "Collapsible helmet and corresponding production method",
+      "score": 0.95,
+      "overlap": "Honeycomb protective configuration, staggered layers, end plates engage to form rigid loop, collapses flat, impact absorption by crumpling",
+      "elements_hit": ["e1", "e2", "e3", "e4", "e5", "e7"],
+      "url": "https://patents.google.com/patent/WO2023233224A1/en"
+    },
+    {
+      "pub_number": "US12268268B2",
+      "title": "Machine vendible expandable helmet and manufacture of same",
+      "score": 0.92,
+      "overlap": "Radial honeycomb matrix, folded↔expanded, side frames, sliding latch, frames rotate beyond parallel",
+      "elements_hit": ["e1", "e2", "e3", "e4", "e5", "e7"],
+      "url": "https://patents.google.com/patent/US12268268B2/en"
+    },
+    {
+      "pub_number": "US11857020",
+      "title": "Collapsible protective helmet",
+      "score": 0.85,
+      "overlap": "Crown rotates 180° relative to base body, ball-and-socket joint, over-centre toggle latch, honeycomb structure",
+      "elements_hit": ["e1", "e3", "e4", "e5"],
+      "url": "https://patents.google.com/patent/US11857020/en"
+    },
+    {
+      "pub_number": "US11191316",
+      "title": "Collapsible helmet",
+      "score": 0.80,
+      "overlap": "Center + side chassis rotate to collapse, locking mechanism, fingers interlock",
+      "elements_hit": ["e1", "e3", "e4"],
+      "url": "https://patents.google.com/patent/US11191316/en"
+    },
+    {
+      "pub_number": "CN122439960A",
+      "title": "Foldable helmet with honeycomb matrix and airbag auto-unfold",
+      "score": 0.78,
+      "overlap": "Honeycomb matrix, airbag inflation auto-unfold, reinforcing plates, ventilation holes",
+      "elements_hit": ["e1", "e2", "e4", "e5"],
+      "url": "https://patents.google.com/patent/CN122439960A/en"
+    },
+    {
+      "pub_number": "US97473704B2",
+      "title": "Collapsible helmet",
+      "score": 0.72,
+      "overlap": "Hinged panels, bosses/catches lock, slide release button, living hinges",
+      "elements_hit": ["e3", "e4"],
+      "url": "https://patents.google.com/patent/US97473704/en"
+    },
+    {
+      "pub_number": "CN207285346U",
+      "title": "Bicycle helmet with flexible honeycomb matrix",
+      "score": 0.70,
+      "overlap": "Flexible honeycomb matrix, radial cells, foldable, breathable",
+      "elements_hit": ["e1", "e2", "e7"],
+      "url": "https://patents.google.com/patent/CN207285346U/en"
+    },
+    {
+      "pub_number": "EP4179908A1",
+      "title": "Helmet with cellular liners",
+      "score": 0.68,
+      "overlap": "Cellular liners in foam shell, friction fit retention, CPC A42B3/125",
+      "elements_hit": ["e1", "e5"],
+      "url": "https://patents.google.com/patent/EP4179908A1/en"
+    },
+    {
+      "pub_number": "WO2018200414A1",
+      "title": "Collapsible helmet (Fend Corp)",
+      "score": 0.65,
+      "overlap": "Commercial folding helmet, collapsible design",
+      "elements_hit": ["e1", "e4"],
+      "url": "https://patents.google.com/patent/WO2018200414A1/en"
+    },
+    {
+      "pub_number": "US10905187B1",
+      "title": "Collapsible helmet (Gwenventions)",
+      "score": 0.62,
+      "overlap": "Commercial folding helmet, collapsible design",
+      "elements_hit": ["e1", "e4"],
+      "url": "https://patents.google.com/patent/US10905187B1/en"
+    },
+    {
+      "pub_number": "GB2567411A",
+      "title": "Folding helmet with interlocking mating surfaces",
+      "score": 0.60,
+      "overlap": "Interlocking forms on mating surfaces, hinge + fixings, nested elements",
+      "elements_hit": ["e3", "e4"],
+      "url": "https://patents.google.com/patent/GB2567411A/en"
+    },
+    {
+      "pub_number": "US4893978",
+      "title": "Quarter-turn detent twistlock",
+      "score": 0.55,
+      "overlap": "Square bore + latching shoulders, 90° rotation, quarter-turn latching positions",
+      "elements_hit": ["e6"],
+      "url": "https://patents.google.com/patent/US4893978/en"
+    },
+    {
+      "pub_number": "US6575682",
+      "title": "Quarter turn fastener",
+      "score": 0.52,
+      "overlap": "90° rotation, cam-stop, blade member, prevents retrograde movement",
+      "elements_hit": ["e6"],
+      "url": "https://patents.google.com/patent/US6575682/en"
+    },
+    {
+      "pub_number": "US9200660",
+      "title": "Quarter turn fastener",
+      "score": 0.50,
+      "overlap": "Lock arms + lock ribs, 90° rotation, stop ribs, directional locking",
+      "elements_hit": ["e6"],
+      "url": "https://patents.google.com/patent/US9200660/en"
+    },
+    {
+      "pub_number": "CA2561540C",
+      "title": "Adjustment mechanism for helmet",
+      "score": 0.48,
+      "overlap": "Sliding shell sections with pivot lock, A42B 3/32",
+      "elements_hit": ["e3"],
+      "url": "https://patents.google.com/patent/CA2561540C/en"
+    },
+    {
+      "pub_number": "EP3391765A3",
+      "title": "Safety helmet with rotary impact buffering",
+      "score": 0.45,
+      "overlap": "Shell rotates relative to liner for impact buffering",
+      "elements_hit": ["e6"],
+      "url": "https://patents.google.com/patent/EP3391765A3/en"
+    },
+    {
+      "pub_number": "US12736079",
+      "title": "Quarter turn retainer",
+      "score": 0.42,
+      "overlap": "90° rotation, edge profile for quarter-turn, two-piece fastener",
+      "elements_hit": ["e6"],
+      "url": "https://patents.google.com/patent/US12736079/en"
+    },
+    {
+      "pub_number": "US20110110716A1",
+      "title": "Quarter turn locking mechanism",
+      "score": 0.40,
+      "overlap": "Bayonet catch, 90° rotation, spinal surgery tool",
+      "elements_hit": ["e6"],
+      "url": "https://patents.google.com/patent/US20110110716A1/en"
+    },
+    {
+      "pub_number": "US4653970",
+      "title": "Quarter-turn fastener",
+      "score": 0.38,
+      "overlap": "Spiral cam slot, 1/4 turn locking, pierce nut",
+      "elements_hit": ["e6"],
+      "url": "https://patents.google.com/patent/US4653970/en"
+    },
+    {
+      "pub_number": "US5123795",
+      "title": "Quarter turn fastener",
+      "score": 0.35,
+      "overlap": "Slot + tab, 90° rotation, spring-loaded, curved retainer",
+      "elements_hit": ["e6"],
+      "url": "https://patents.google.com/patent/US5123795/en"
+    }
+  ],
+  "ref_count": 20,
+  "candidates_considered": 76,
+  "report": {
+    "verdict": "significant-overlap",
+    "narrative": "The core concept of a collapsible bicycle helmet with honeycomb liner, overlapping cells, rigid locking when actuated, and flat collapse is heavily anticipated by WO2023233224A1 (Monopro Ltd) and the US12268268B2/US12740611 family. WO2023233224A1 discloses all elements except the quarter-turn twist actuation: honeycomb protective configuration, staggered lines of attachment, arcuate end plates engaging to form a rigid loop, collapsed flattened form, and impact absorption through progressive crumpling. The US12268268B2 family discloses radial honeycomb matrix with folded↔expanded transition and side frames. US11857020 (Coco Worldwide) discloses rotation between helmet components (crown rotates 180° relative to base) with locking means, but uses a different mechanism (pivot + toggle latch, not twist-lock). The only potentially novel element is the quarter-turn (90°) twist actuation of the shell relative to the liner. However, quarter-turn twist-lock mechanisms are ubiquitous in mechanical engineering (US4893978, US6575682, US9200660, US12736079, US20110110716A1, US4653970, US5123795 — dating from 1970s-2020s). Applying a known mechanical principle (quarter-turn fastener) to a known structure (folding helmet with rotating components per US11857020) would likely be rejected under 35 U.S.C. § 103 as obvious (KSR v. Teleflex). The specific geometry of how the twist actuates the honeycomb cells (cam surfaces, detent positions) might be the only protectable aspect, but this would be a very narrow claim.",
+    "matrix": [
+      { "element": "e1", "label": "honeycomb protective liner", "reads_on": "WO2023233224A1, US12268268B2, CN122439960A, CN207285346U, EP4179908A1", "status": "disclosed" },
+      { "element": "e2", "label": "overlapping thermoplastic cells", "reads_on": "WO2023233224A1, US12268268B2, CN122439960A, CN207285346U", "status": "disclosed" },
+      { "element": "e3", "label": "locks rigid when actuated", "reads_on": "WO2023233224A1, US9743704B2, US11857020, CA2561540C", "status": "disclosed" },
+      { "element": "e4", "label": "collapses flat for storage", "reads_on": "WO2023233224A1, US12268268B2, US11857020, GB2567411A", "status": "disclosed" },
+      { "element": "e5", "label": "impact absorption by cell crush", "reads_on": "WO2023233224A1, US12268268B2, CN122439960A, EP4179908A1", "status": "disclosed" },
+      { "element": "e6", "label": "quarter-turn twist actuation", "reads_on": "Not found in helmet patents. Well-known in general mechanical engineering (US4893978, US6575682, US9200660, US12736079, US20110110716A1, US4653970, US5123795). US11857020 teaches 180° rotation between helmet components.", "status": "not-found-in-helmets" },
+      { "element": "e7", "label": "radial cell arrangement", "reads_on": "WO2023233224A1, US12268268B2, CN207285346U", "status": "disclosed" }
+    ],
+    "limitations": "No patent found disclosing a quarter-turn (90°) twist of the shell relative to the liner to lock/unlock a honeycomb structure in a helmet. The specific cam/detent geometry of the twist actuation mechanism may be protectable as a narrow design patent or utility patent claim.",
+    "design_patents": [
+      { "pub_number": "USD774256S1", "title": "Folding helmet", "assignee": "Chris J. Katopis" },
+      { "pub_number": "USD873495S1", "title": "Collapsible helmet", "assignee": "Fend Corp." },
+      { "pub_number": "USD759899S1", "title": "Bicycle helmet" },
+      { "pub_number": "USD903947S1", "title": "Bicycle helmet" },
+      { "pub_number": "USD903946S1", "title": "Bicycle helmet" },
+      { "pub_number": "USD1042978S1", "title": "Bicycle helmet" }
+    ],
+    "npl_refs": [
+      { "doi": "10.1088/1361-665x/ace94b", "title": "Optimisation of an elastomeric pre-buckled honeycomb helmet liner for advanced impact mitigation", "year": 2023, "cited_by": 15 },
+      { "doi": "10.1016/j.matdes.2024.112748", "title": "Viscoelastic circular cell honeycomb helmet liners for reducing head rotation and brain strain in oblique impacts", "year": 2024, "cited_by": 14 },
+      { "doi": "10.1016/j.aap.2018.12.017", "title": "Evaluation of a novel bicycle helmet concept in oblique impact testing", "year": 2019, "cited_by": 99 },
+      { "doi": "10.3390/app9040735", "title": "Helmet Design Based on the Optimization of Biocomposite Energy-Absorbing Liners under Multi-Impact Loading", "year": 2019, "cited_by": 92 },
+      { "doi": "10.3389/fbioe.2021.718407", "title": "An Overview of the Effectiveness of Bicycle Helmet Designs in Impact Testing", "year": 2021, "cited_by": 25 },
+      { "doi": "10.1088/1757-899x/993/1/012128", "title": "Modelling and Analysis of Foldable Motorcycle Helmet for Human Comfort", "year": 2020, "cited_by": 2 },
+      { "doi": "10.3390/bioengineering8110173", "title": "A Biomechanical Evaluation of a Novel Airbag Bicycle Helmet Concept for Traumatic Brain Injury Mitigation", "year": 2021, "cited_by": 19 },
+      { "doi": "10.21203/rs.3.rs-3088077/v1", "title": "Designing for Sustainability and Safety in Urban Micro-mobility: A Novel Helmet Concept", "year": 2023, "cited_by": 2 }
+    ],
+    "commercial_products": [
+      "Closca — folding honeycomb commuter helmet (€89.90)",
+      "Overade PLIXI — foldable urban bike helmet",
+      "FEND One — folding helmet, 50% size reduction",
+      "Newlane — collapsible cycling helmet with Flip-Clip",
+      "HIVE — origami-inspired collapsible bike helmet (student project)"
+    ],
+    "cpc_classes": ["A42B 3/125", "A42B 3/32", "A42B 3/128"],
+    "search_methodology": {
+      "sources": ["web_search (Hermes backend)", "web_extract (Google Patents)", "OpenAlex", "Crossref"],
+      "patent77": "Rate-limited (daily quota reached)",
+      "direct_curl": "IP-throttled by Google (503)",
+      "queries_executed": 8,
+      "total_unique_refs": 76,
+      "search_date": "2026-10-08"
+    }
+  }
+}
